@@ -15,7 +15,7 @@ As a Network Admin, I:
 
 Currently, I am:
 
-- Practicing Python scripting for security automation.
+- Practicing Python scripting for security automation. 
 - Parsing and analyzing log files to detect anomalies and threats.
 - Using SQL for basic security queries and data filtering.
 - Learning Splunk for log correlation and dashboard building.
@@ -38,6 +38,7 @@ Currently, I am:
 - Parses login logs from `.csv` files.
 - Flags failed login attempts and logins at suspicious hours.
 - Demonstrates control flow, string handling, and file operations.
+- Link to Log Alert Script here (https://github.com/ByroneTifflin1990/Log_Parsing_Script)
 
 ### 📊 SQL-Based Log Analysis
 - Filters failed login attempts from simulated logs using basic SQL queries.
