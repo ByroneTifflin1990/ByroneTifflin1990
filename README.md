@@ -40,7 +40,7 @@ Currently, I am:
 - Uses input validation, loops, conditional logic, and the `random`/`string` libraries.
 - Demonstrates secure-by-design thinking for user-facing tools.
 
-📂 [View Code in Repository](./password_generator.py)
+📂 [View Code in Repository]([./password_generator.py](https://github.com/ByroneTifflin1990/random_pass_gen))
 
 
 ### 🔍 Log Alert Script (Python)
