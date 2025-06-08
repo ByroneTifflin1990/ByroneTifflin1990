@@ -50,7 +50,7 @@ Currently, I am:
 ### ✅ Google Cybersecurity Certificate  
 *Issued by Google via Coursera, 2025*  
 ![Google Cybersecurity Badge]https://www.credly.com/badges/3735199b-de7d-4f75-bf6e-1938bd60153b/public_url 
-[📄 View Certificate]([https://www.coursera.org/account/accomplishments/certificate/your_certificate_id](https://coursera.org/share/097decf20b441491ee9f88094f6f92e6)) 
+[📄 View Certificate](https://coursera.org/share/097decf20b441491ee9f88094f6f92e6)) ]
 Topics included:  
 - Network security  
 - Security incident handling  
