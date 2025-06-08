@@ -70,7 +70,7 @@ Topics included:
 ## 📫 Contact Me
 
 I'm currently seeking opportunities as a **Cybersecurity Analyst** or **Security Operations Center (SOC) Analyst**.  
-Feel free to connect with me on [LinkedIn](#) or email me at `byronework031@gmail.com`.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/byrone-tifflin-818b18365/) or email me at `byronework031@gmail.com`.
 
 ---
 
