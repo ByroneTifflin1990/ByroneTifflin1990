@@ -34,6 +34,15 @@ Currently, I am:
 
 ## 📁 Featured Projects
 
+### 🔐 Password Generator (Python)
+- A simple CLI tool to generate secure random passwords based on user-defined length.
+- Includes uppercase, lowercase, and special characters.
+- Uses input validation, loops, conditional logic, and the `random`/`string` libraries.
+- Demonstrates secure-by-design thinking for user-facing tools.
+
+📂 [View Code in Repository](./password_generator.py)
+
+
 ### 🔍 Log Alert Script (Python)
 - Parses login logs from `.csv` files.
 - Flags failed login attempts and logins at suspicious hours.
