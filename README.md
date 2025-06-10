@@ -3,6 +3,22 @@
 Welcome to my Cybersecurity Portfolio! I'm a former Network Administrator with over five years of experience supporting IT infrastructure in the construction sector. My passion for network security, automation, and threat analysis led me to complete the **Google Cybersecurity Certificate**, and I'm actively growing my technical skills to transition into a cybersecurity analyst role.
 
 ---
+## 📜 Certification
+
+### ✅ Google Cybersecurity Certificate  
+*Issued by Google via Coursera, 2025*  
+[Google Cybersecurity Badge] https://www.credly.com/badges/3735199b-de7d-4f75-bf6e-1938bd60153b/public_url
+
+[📄 View Certificate](https://coursera.org/share/097decf20b441491ee9f88094f6f92e6)) ]
+Topics included:  
+- Network security  
+- Security incident handling  
+- Risk management (NIST frameworks)  
+- Asset protection  
+- Introduction to SIEM tools
+
+---
+
 
 ## 🧠 About Me
 
@@ -73,21 +89,7 @@ I’m continuing to explore advanced Splunk topics like data onboarding, SPL opt
 
 ---
 
-## 📜 Certification
 
-### ✅ Google Cybersecurity Certificate  
-*Issued by Google via Coursera, 2025*  
-[Google Cybersecurity Badge] https://www.credly.com/badges/3735199b-de7d-4f75-bf6e-1938bd60153b/public_url
-
-[📄 View Certificate](https://coursera.org/share/097decf20b441491ee9f88094f6f92e6)) ]
-Topics included:  
-- Network security  
-- Security incident handling  
-- Risk management (NIST frameworks)  
-- Asset protection  
-- Introduction to SIEM tools
-
----
 
 ## 🌱 What I'm Working On
 - Growing my knowledge and experience with SIEM tools ( Splunk)  
