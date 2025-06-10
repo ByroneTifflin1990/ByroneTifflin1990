@@ -28,6 +28,7 @@ Currently, I am:
 - **Networking:** LAN/WAN setup, remote site configuration, IP filtering, Office 365 Admin
 - **Programming:** Python (file handling, loops, conditional logic)
 - **Databases:** SQL (basic SELECT, WHERE, GROUP BY)
+ 
 🧰 Splunk Skills & Badge
 🎓 Let’s Defend: Splunk Beginner Course
 Issued by Let’s Defend, 2025
