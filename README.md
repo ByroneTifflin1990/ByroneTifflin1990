@@ -28,7 +28,24 @@ Currently, I am:
 - **Networking:** LAN/WAN setup, remote site configuration, IP filtering, Office 365 Admin
 - **Programming:** Python (file handling, loops, conditional logic)
 - **Databases:** SQL (basic SELECT, WHERE, GROUP BY)
-- **Tools in Progress:** Splunk, Wireshark
+🧰 Splunk Skills & Badge
+🎓 Let’s Defend: Splunk Beginner Course
+Issued by Let’s Defend, 2025
+[🔗 View Badge] (https://app.letsdefend.io/my-rewards/detail/1ff0433a070848ae90b66a1c3e607b78)
+
+Through hands-on labs and real-world scenarios, I developed foundational Splunk engineering skills, including:
+
+🔍 Search Mastery: Creating and fine-tuning queries to extract meaningful insights from logs.
+
+📢 Alert Generation: Setting up alerts for specific events such as failed logins, unauthorized access, and port scanning attempts.
+
+📊 Reporting: Designing custom reports to track security events and trends over time.
+
+📈 Dashboard Management: Building and organizing dynamic dashboards for real-time monitoring of security incidents.
+
+🧪 Use Case Implementation: Creating end-to-end solutions for log ingestion, parsing, correlation, and visualization.
+
+I’m continuing to explore advanced Splunk topics like data onboarding, SPL optimization, and integration with threat intelligence feeds.
 
 ---
 
