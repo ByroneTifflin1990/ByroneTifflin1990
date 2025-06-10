@@ -29,7 +29,7 @@ Currently, I am:
 - **Programming:** Python (file handling, loops, conditional logic)
 - **Databases:** SQL (basic SELECT, WHERE, GROUP BY)
  
-🧰 Splunk Skills & Badge
+
 🎓 Let’s Defend: Splunk Beginner Course
 Issued by Let’s Defend, 2025
 [🔗 View Badge] (https://app.letsdefend.io/my-rewards/detail/1ff0433a070848ae90b66a1c3e607b78)
