@@ -90,7 +90,7 @@ Topics included:
 ---
 
 ## 🌱 What I'm Working On
-- Building a Splunk-based alert dashboard using simulated login data  
+- Growing my knowledge and experience with SIEM tools ( Splunk)  
 - Expanding my Python toolset for automated log parsing  
 - Studying MITRE ATT&CK and OWASP Top 10  
 
