@@ -55,7 +55,7 @@ I’m continuing to explore advanced Splunk topics like data onboarding, SPL opt
 ### 🔐 Password Generator (Python)
 - A simple CLI tool to generate secure random passwords based on user-defined length.
 - Includes uppercase, lowercase, and special characters.
-- Uses input validation, loops, conditional logic, and the `random`/`string` libraries.
+- Uses input validation, loops, conditional logic, and the `random`/`string` modules.
 - Demonstrates secure-by-design thinking for user-facing tools.
 
 📂 [View Code in Repository] (https://github.com/ByroneTifflin1990/random_pass_gen)
