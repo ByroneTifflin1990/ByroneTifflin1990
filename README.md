@@ -1,5 +1,7 @@
 🛡️ CYBERSECURITY ANALYST PORTFOLIO
+
 Byrone Tifflin
+
 📧 byronework031@gmail.com • 🌐 LinkedIn (https://www.linkedin.com/in/byrone-tifflin-818b18365/) • 📍 Open to Remote/Hybrid
 
 -
@@ -33,6 +35,7 @@ Use Case Implementation (Log Parsing, Correlation)
 ------
 
 🧠 ABOUT ME
+
 I’m a former Network Administrator with 5+ years of experience supporting IT infrastructure in the construction sector, now transitioning into a Cybersecurity Analyst role.
 
 Previous Experience:
@@ -57,6 +60,7 @@ Splunk for dashboarding and alert configuration
 ------
 
 🔧 TECHNICAL SKILLS
+
 Cybersecurity: Threat detection, NIST framework, log analysis, incident response
 
 Networking: Office 365 Admin, IP filtering, site deployment, firewall configuration
@@ -66,15 +70,19 @@ Programming: Python (loops, file handling, logic, string ops)
 Databases: SQL (SELECT, WHERE, GROUP BY)
 
 📁 FEATURED PROJECTS
-🔐 Password Generator (Python)
-CLI tool that generates secure passwords with character mix options
-🔗 View Code
 
-🔍 Log Alert Script (Python)
+🔐 Password Generator (Python)
+
+CLI tool that generates secure passwords with character mix options
+🔗 View Code ( https://github.com/ByroneTifflin1990/random_pass_gen )
+
+🔍 Failed Login Script (Python)
+
 Parses .csv login logs for failed attempts or unusual timestamps
-🔗 View Code
+🔗 View Code ( https://github.com/ByroneTifflin1990/Log_Parsing_Script )
 
 📊 SQL Log Analysis
+
 Uses SQL to filter and extract patterns from simulated log data
 
 Identifies brute-force attempts and account misuse
