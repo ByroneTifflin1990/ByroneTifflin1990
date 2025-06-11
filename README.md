@@ -1,36 +1,36 @@
 🛡️ CYBERSECURITY ANALYST PORTFOLIO
 Byrone Tifflin
-📧 byronework031@gmail.com • 🌐 LinkedIn • 📍 Open to Remote/Hybrid
+📧 byronework031@gmail.com • 🌐 LinkedIn (https://www.linkedin.com/in/byrone-tifflin-818b18365/) • 📍 Open to Remote/Hybrid
 
+-
 🎓 CERTIFICATIONS
+
 Google Cybersecurity Certificate
 Issued by Google via Coursera, 2025
-🔗 View Certificate
-🔗 Badge
+🔗 View Certificate : (https://coursera.org/share/097decf20b441491ee9f88094f6f92e6)
+🔗 Badge : (https://www.credly.com/badges/3735199b-de7d-4f75-bf6e-1938bd60153b/public_url)
+
 Key Topics:
 
-Network Security
-
-Risk Management (NIST)
-
-Security Incident Handling
-
-SIEM Introduction
-
-Asset Protection
+- Network Security
+- Risk Management (NIST)
+- Security Incident Handling
+- SIEM Introduction
+- Asset Protection
 
 Let’s Defend: Splunk Beginner Course
 Issued by Let’s Defend, 2025
-🔗 View Badge
+🔗 View Badge : ( https://app.letsdefend.io/my-rewards/detail/1ff0433a-0708-48ae-90b6-6a1c3e607b78)
+
 Skills Gained:
 
-Search Mastery & Query Creation
-
-Alert Setup for Threat Events
-
-Custom Report & Dashboard Creation
+- Search Mastery & Query Creation
+- Alert Setup for Threat Events
+- Custom Report & Dashboard Creation
 
 Use Case Implementation (Log Parsing, Correlation)
+
+------
 
 🧠 ABOUT ME
 I’m a former Network Administrator with 5+ years of experience supporting IT infrastructure in the construction sector, now transitioning into a Cybersecurity Analyst role.
@@ -44,6 +44,8 @@ Managed Office 365 user accounts and licensing
 
 Applied IP filtering and firewall rule sets to mitigate threats
 
+------
+
 Currently Practicing:
 Python scripting for automation and threat detection
 
@@ -52,6 +54,7 @@ SQL for security log filtering and querying
 Log parsing & anomaly detection
 
 Splunk for dashboarding and alert configuration
+------
 
 🔧 TECHNICAL SKILLS
 Cybersecurity: Threat detection, NIST framework, log analysis, incident response
@@ -78,12 +81,16 @@ Identifies brute-force attempts and account misuse
 
 Reinforces structured log analysis and querying
 
+------
+
 🌱 CURRENT LEARNING GOALS
 Advanced SIEM strategies with Splunk
 
 Python scripting for automated log parsing
 
 Deep dive into MITRE ATT&CK and OWASP Top 10 frameworks
+
+------
 
 📫 CONTACT
 I’m actively seeking a position as a Cybersecurity Analyst or SOC Analyst.
