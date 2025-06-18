@@ -4,8 +4,28 @@ Byrone Tifflin
 
 📧 byronework031@gmail.com • 🌐 LinkedIn (https://www.linkedin.com/in/byrone-tifflin-818b18365/) • 📍 Open to Remote/Hybrid
 
--
-🎓 CERTIFICATIONS
+📁 FEATURED PROJECTS
+--------------
+🔐 Password Generator (Python)
+
+CLI tool that generates secure passwords with character mix options
+🔗 View Code ( https://github.com/ByroneTifflin1990/random_pass_gen )
+
+🔍 Failed Login Script (Python)
+
+Parses .csv login logs for failed attempts or unusual timestamps
+🔗 View Code ( https://github.com/ByroneTifflin1990/Log_Parsing_Script )
+
+📊 SQL Log Analysis
+
+Uses SQL to filter and extract patterns from simulated log data
+
+Identifies brute-force attempts and account misuse
+
+Reinforces structured log analysis and querying
+
+-------------
+🎓 CERTIFICATES
 
 Google Cybersecurity Certificate
 Issued by Google via Coursera, 2025
@@ -69,25 +89,6 @@ Programming: Python (loops, file handling, logic, string ops)
 
 Databases: SQL (SELECT, WHERE, GROUP BY)
 
-📁 FEATURED PROJECTS
-
-🔐 Password Generator (Python)
-
-CLI tool that generates secure passwords with character mix options
-🔗 View Code ( https://github.com/ByroneTifflin1990/random_pass_gen )
-
-🔍 Failed Login Script (Python)
-
-Parses .csv login logs for failed attempts or unusual timestamps
-🔗 View Code ( https://github.com/ByroneTifflin1990/Log_Parsing_Script )
-
-📊 SQL Log Analysis
-
-Uses SQL to filter and extract patterns from simulated log data
-
-Identifies brute-force attempts and account misuse
-
-Reinforces structured log analysis and querying
 
 ------
 
